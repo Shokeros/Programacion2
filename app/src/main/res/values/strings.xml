@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Primera</string>
+    <string name="pastel">Pastel de choclo</string>
+    <string name="cant">Cant:</string>
+    <string name="cazuela">Cazuela</string>
+    <string name="valor">Valor: </string>
+    <string name="valorPastel">$36.000</string>
+    <string name="valorCazuela">$10.000</string>
+    <string name="comida">Comida:</string>
+    <string name="propina">Propina:</string>
+    <string name="total">Total:</string>
+    <string name="cantidad_de_pasteles_de_choclo">Cantidad de pasteles de choclo</string>
+    <string name="cantidad_de_cazuelas">Cantidad de cazuelas</string>
+</resources>
